@@ -11,8 +11,7 @@
 <div>
   
    <a href="https://www.linkedin.com/in/fernando-batista-208048207/" target="_blank">
-     <img scr="![icons8-linkedin-80](https://github.com/REALFSB/REALFSB/assets/119537604/6c18665b-4e43-4098-addc-57e5788cc124)
-">
+     ![icons8-linkedin-80](https://github.com/REALFSB/REALFSB/assets/119537604/6c18665b-4e43-4098-addc-57e5788cc124)
    </a>
    <a href="https://www.instagram.com/realfdsb/" target="_blank"> </a>
 </div>
