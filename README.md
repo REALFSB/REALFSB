@@ -8,10 +8,10 @@
 
 <h2>Tech Stack</h2>
 
-**Linguagens:** Python, Java, Javascript, C; <br>
+**Linguagens:** Python, Java, Javascript, C, VBA; <br>
 **Frameworks:** Pandas, Numpy, Bootstrap, Matplotlib, Seaborn, Scikit-learn, Next.js;<br>
-**Ferramentas:** Excel, Power BI;<br>
-**Banco de dados:** MySQL, SSQL, Mongodb, SQLite;<br>
+**Ferramentas:** Excel, Power BI, Git, GitHub;<br>
+**Banco de dados:** MySQL, SQL Server, MongoDB, SQLite;<br>
 **Desenvolvimento web:** HTML, CSS; <br>
 **Sistemas Operacionais:** Windows, Linux
 
